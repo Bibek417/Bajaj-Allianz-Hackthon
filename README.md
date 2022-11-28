@@ -15,4 +15,4 @@ There are various factors that affect customer’s policy purchase decisions in 
 * Create segments of customers based on their persona. The segments should be defined clearly and should not be too similar to each other,
 * Evaluate weightage of product features for each of the customer segments created,
 * Create a recommender systems (statistical based model or algorithm) to find the attributes influencing the customer’s preference for product features
-* Identify effect of market factors affecting these .
+* Identify effect of market factors affecting these segments.
