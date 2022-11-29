@@ -1,9 +1,9 @@
 # Bajaj-Allianz-Hackthon
 This is a Hackathon organized by Bajaj Allianz and Upgrade where I participated and got the 4th rank, and in this repo, I share my 4th rank solution. 
 
-# Link of the hackethon  -> https://www.kaggle.com/competitions/allianz-hackathon
-# Link to download the datasets -> https://www.kaggle.com/datasets/bibekanandasahoo/bajaj-allianz-upgrad-hackethon-datasets
-# Leaderbord -> https://www.kaggle.com/competitions/allianz-hackathon/leaderboard
+## Link of the hackethon  -> https://www.kaggle.com/competitions/allianz-hackathon
+## Link to download the datasets -> https://www.kaggle.com/datasets/bibekanandasahoo/bajaj-allianz-upgrad-hackethon-datasets
+## Leaderbord -> https://www.kaggle.com/competitions/allianz-hackathon/leaderboard
 # Hackethon Description 
 World is still recovering from COVID-19 pandemic that brought many industries to a standstill for almost two years. However, it had an opposite effect on life insurance penetration in India. It took India’s life insurance penetration level from 2.82% in 2019 to 3.2% in 2020, which is close to the global average. The pandemic also gave push to online sales of life insurance. In financial year 2019-20, 12.5% of overall term policies by premium were purchased by Indians online. However, on savings side, it is still muted with less than 1% of total premium by channel.
 
