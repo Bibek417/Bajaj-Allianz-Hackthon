@@ -1,7 +1,7 @@
 # Bajaj-Allianz-Hackthon
 This is a Hackathon organized by Bajaj Allianz and Upgrade where I participated and got the 4th rank, and in this repo, I share my 4th rank solution. 
 
-# Link of the hackethon  -> 
+# Link of the hackethon  -> https://www.kaggle.com/competitions/allianz-hackathon
 # Link to download the datasets -> https://www.kaggle.com/datasets/bibekanandasahoo/bajaj-allianz-upgrad-hackethon-datasets
 # Leaderbord -> https://www.kaggle.com/competitions/allianz-hackathon/leaderboard
 # Hackethon Description 
